@@ -7,7 +7,7 @@ def home():
     return 'Mi primera página'
 
 @app.route("/chau")
-def home():
+def home2():
     return 'chauchauchauuuuu'
 
 
